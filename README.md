@@ -22,11 +22,14 @@
 
 ---
 
+- [My CV]()
+
+---
+
 - [Test-case]()
 - [Checklist]()
 - [Validation]()
-- [Bug-report]()
-- [Mindmap]()
+- [Bug-report](https://taba4ok.youtrack.cloud/issues)
 
 ---
 
