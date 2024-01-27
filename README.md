@@ -4,6 +4,7 @@
 
 **:hammer_and_wrench: Languages and Tools :**
 <div>
+
 <img src="https://github.com/0TaBa4ok0/0TaBa4oK0/assets/157880580/0278d7d6-a7e7-4d1f-8207-5749023c5398">
 <img src="https://github.com/0TaBa4ok0/0TaBa4oK0/assets/157880580/d43b453a-2c1c-44b7-ae1f-910fab53626b">
 <img src="https://github.com/0TaBa4ok0/0TaBa4oK0/assets/157880580/ee99b111-fb23-46c1-a181-e7b1e634a6c6">
@@ -16,6 +17,7 @@
 <img src="https://github.com/0TaBa4ok0/0TaBa4oK0/assets/157880580/6e3f5278-cacd-44a2-9bae-c6e12614b3dd">
 <img src="https://github.com/0TaBa4ok0/0TaBa4oK0/assets/157880580/276e3770-dfcd-4539-aaaf-132d5defb109">
 <img src="https://github.com/0TaBa4ok0/0TaBa4oK0/assets/157880580/a2275b7a-f27b-4076-89fc-c12210bc6d5f">
+
 </div>
 
 ---
@@ -28,19 +30,19 @@
 
 ---
 
-<div align="center">
-        <figure>
-            <img src="https://github.com/0TaBa4ok0/0TaBa4oK0/assets/157880580/945cc7d8-b0d1-42d8-a721-8f3a618d57d4" width="70px" height="70px" />
-            <img src="https://github.com/0TaBa4ok0/0TaBa4oK0/assets/157880580/3776384b-fc72-4abd-aa67-af5fedc4b31e" width="70px" height="70px" />
-        </figure>
-</div>
-<div align="center">
-    <a href="#">
-        <figure>
-            <figcaption> Contact me </figcaption>
-        </figure>
-    </a>
-</div>
 
+<div align="center">
+         <figure>  
+            <img src="https://github.com/0TaBa4ok0/0TaBa4oK0/assets/157880580/945cc7d8-b0d1-42d8-a721-8f3a618d57d4" width="60px" height="60px" />
+            <img src="https://github.com/0TaBa4ok0/0TaBa4oK0/assets/157880580/3776384b-fc72-4abd-aa67-af5fedc4b31e" width="60px" height="60px" />
+        </figure>
+</div>
+<div align="center">
+        <a href="#">
+        <figure>   
+          Contact me
+        </figure>
+         </a>
+</div>
 
 
