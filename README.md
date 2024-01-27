@@ -34,7 +34,6 @@
 <div align="center">
          <figure>  
             <img src="https://github.com/0TaBa4ok0/0TaBa4oK0/assets/157880580/945cc7d8-b0d1-42d8-a721-8f3a618d57d4" width="60px" height="60px" />
-            <img src="https://github.com/0TaBa4ok0/0TaBa4oK0/assets/157880580/3776384b-fc72-4abd-aa67-af5fedc4b31e" width="60px" height="60px" />
         </figure>
 </div>
 <div align="center">
