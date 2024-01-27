@@ -38,7 +38,7 @@
         </figure>
 </div>
 <div align="center">
-        <a href="#">
+        <a href="https://t.me/+79296077287">
         <figure>   
           Contact me
         </figure>
