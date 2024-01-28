@@ -32,8 +32,8 @@
 
 - [Test-case]()
 - [Checklist]()
-- [Validation]()
 - [Bug-report](https://taba4ok.youtrack.cloud/issues)
+- [Automatic testing]()
 
 ---
 
