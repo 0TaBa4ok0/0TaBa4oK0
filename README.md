@@ -33,7 +33,7 @@
 - [Test-case]()
 - [Checklist]()
 - [Bug-report](https://taba4ok.youtrack.cloud/issues)
-- [Automatic testing]()
+- [Automatic testing](https://github.com/0TaBa4ok0/Machine)
 
 ---
 
