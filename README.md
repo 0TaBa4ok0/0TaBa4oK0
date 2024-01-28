@@ -1,6 +1,6 @@
 <div align="center"><img src="https://github.com/0TaBa4ok0/0TaBa4oK0/assets/157880580/24b565a2-91fe-40c2-ba30-edd340509cb3" width="1000" height="150"></div>
 <div align="center">
-      I'm a QA engineer 
+      QA engineer 
 </div>
 
 
