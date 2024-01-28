@@ -30,8 +30,8 @@
 
 ---
 
-- [Test-case]()
-- [Checklist]()
+- [Test-case](https://docs.google.com/spreadsheets/d/1wviMFqWsXiwX2WEaPJbbONdGIdkXs90gjGqDMVzKq-c/edit?pli=1#gid=94813143)
+- [Checklist](https://docs.google.com/spreadsheets/d/196yhkpM_trkhf4Bv5_r1-PzatmkI3dDm8ecDebZaQoM/edit?pli=1#gid=587954608)
 - [Bug-report](https://taba4ok.youtrack.cloud/issues)
 - [Automatic testing](https://github.com/0TaBa4ok0/Machine)
 
