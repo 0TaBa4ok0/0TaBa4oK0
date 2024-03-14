@@ -26,7 +26,7 @@
 
 ---
 
-- [My CV]()
+- [My CV](https://docs.google.com/document/d/1q8007hfk_eRVD3hQWHtXpOx4fwDFFIKjUDhmNH13pmc/edit)
 
 ---
 
